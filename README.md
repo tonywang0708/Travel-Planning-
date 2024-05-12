@@ -1,11 +1,10 @@
 # Travel Planning Website
 
 ### Main Page 
-![Customizing Your Flight Search How Our Intera(1)-Cover](https://github.com/tonywang0708/Travel-Planning-Website/assets/100006330/bf5f8d95-c888-44c9-a37e-c02d791f21b5)
-
+![Travel-planning-Web_demo_video](https://github.com/tonywang0708/Travel-Planning-Website_v1/assets/132950344/16b35e93-0b5b-472b-9bdd-2968c5486b51)
 
 ### Demo Video
-https://github.com/tonywang0708/Travel-Planning-Website/assets/100006330/558e7273-ff64-4c40-b889-feddcccf0344
+https://github.com/tonywang0708/Travel-Planning-Website_v1/assets/132950344/9c24c65b-1155-4e3c-b275-4b6d3c7ceaa8
 
 ## Objective: 
 Empower traveler with a comprehensive and user-friendly tool for planning their journey. 
